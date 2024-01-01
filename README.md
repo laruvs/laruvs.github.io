@@ -7,6 +7,7 @@ Lara Sophia B. Abragan | 9 - St. Edmund Campion
 ---
 **About The Sims 4:**
 
+The Sims 4 is the ultimate life simulation game—create unique characters, build dream homes, and let chaos unfold.
 
 ---
 **How to activate cheatcodes?**
@@ -70,7 +71,7 @@ These cheats will provide you with some extra freedom while building, so you can
 
 That is all :) ! Hope you have a much easier and fun playthrouth with The Sims 4.
 
-Sharing some of my fave The Sims 4 builds to give you inspiration >:D :
+Sharing some of my fave The Sims 4 builds to give you inspiration :
 
 [Modern Loft](https://youtu.be/v35bNc2u0LE?si=3iKK20KlcB6Tt28z)
 
