@@ -58,3 +58,24 @@ These cheats will provide you with some extra freedom while building, so you can
 - aspirations.complete_current_milestone: Completes a Sim's current aspiration goal and awards the matching points.
 
   
+   **Highschool Years Cheats**
+
+  These are all handled through the trait system, so you'll use the cheat traits.equip_trait [trait]
+
+- trait_hsexit_graduate_early
+- trait_hsexit_graduate_honors
+- trait_hsexit_graduate_valedictorian
+- trait_hsexit_expelled
+- trait_hsexit_dropout
+
+That is all :) ! Hope you have a much easier and fun playthrouth with The Sims 4.
+
+Sharing some of my fave The Sims 4 builds to give you inspiration >:D :
+
+[Modern Loft](https://youtu.be/v35bNc2u0LE?si=3iKK20KlcB6Tt28z)
+
+[Autumn Cottage](https://youtu.be/LZ7Oja2TrNE?si=KMUDQveVD39U_WW3)
+
+[House Boat](https://youtu.be/T3pDSpKpqWU?si=RqNPi4772ObHNADw)
+
+Thank You for Reading !!! 🥮🥮🥮
